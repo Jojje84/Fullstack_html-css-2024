@@ -1,2 +1,3 @@
 Dag 1: Började lära mig om Git idag. Det är spännande!
 Dag 2: Fortsatte att utforska Git. Gjorde min första commit!
+Dag 3: Lärde mig hur man återställer filer i Git.
