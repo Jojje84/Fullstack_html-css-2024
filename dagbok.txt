@@ -1,3 +1,2 @@
-Hej
-
-hello
+Dag 1: Började lära mig om Git idag. Det är spännande!
+Dag 2: Fortsatte att utforska Git. Gjorde min första commit!
